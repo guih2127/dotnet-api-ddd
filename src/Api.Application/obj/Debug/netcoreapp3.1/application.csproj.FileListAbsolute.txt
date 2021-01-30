@@ -17,4 +17,4 @@ C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\obj\Debug\
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\obj\Debug\netcoreapp3.1\application.dll
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\obj\Debug\netcoreapp3.1\application.pdb
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
-C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
+C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
