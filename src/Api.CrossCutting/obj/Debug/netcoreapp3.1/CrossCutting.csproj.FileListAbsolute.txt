@@ -6,3 +6,4 @@ C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.CrossCutting\obj\Debug
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
