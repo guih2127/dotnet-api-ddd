@@ -105,7 +105,7 @@ namespace Api.Data.Repository
             return item;
         }
 
-        public async Task<bool> ExistAsync(Guid id)
+        public async Task<bool> ExistsAsync(Guid id)
         {
             var result = await _dataSet.SingleOrDefaultAsync(i => i.Id == id);
 
