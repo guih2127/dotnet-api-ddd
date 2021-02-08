@@ -64,6 +64,9 @@ C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Service.pdb
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\DevHome\api_ddd_dotnet\src\Api.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
