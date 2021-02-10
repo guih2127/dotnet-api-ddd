@@ -5366,11 +5366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5385,9 +5385,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj"
+            "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }
@@ -5400,6 +5401,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers",
@@ -5437,7 +5439,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,15 +26,16 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj"
               },
-              "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj"
               },
-              "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj"
+              "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -47,6 +48,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -68,18 +70,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj": {
+    "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,9 +96,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -109,6 +112,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
@@ -146,18 +150,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,6 +176,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -183,6 +188,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -204,18 +210,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj": {
+    "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -230,12 +236,13 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj"
+              "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Data\\Data.csproj"
               },
-              "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj"
+              "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -248,6 +255,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -269,7 +277,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

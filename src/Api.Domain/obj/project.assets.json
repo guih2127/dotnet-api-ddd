@@ -3486,11 +3486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3505,6 +3505,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -3516,6 +3517,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",
@@ -3537,7 +3539,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

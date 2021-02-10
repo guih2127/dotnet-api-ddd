@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using Api.Domain.DTOs;
 using Api.Domain.Entities;
 using Api.Domain.Interfaces.Services.User;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Application.Controllers
@@ -20,6 +21,7 @@ namespace Api.Application.Controllers
             _loginService = service;
         }
 
+        [AllowAnonymous]
         [HttpPost]
         public async Task<object> Login([FromBody] LoginDTO user)
         {

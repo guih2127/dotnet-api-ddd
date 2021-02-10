@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gnmFmGEJ9u8vrPcN9UJBBvkGLECVFF5XW71Os0QGGN7rsHAkr4wGjDZYrciojBNkQEw3CoWAqhY788GzyVzWOg==",
+  "dgSpecHash": "eQdR/vda5cNlGDqVC7X/OYP4Z/DvfkQbLRdIgvN8RZ/srRqLNf5mtWcA1MLhRW6T5kie7vOIS3T1D7z2H9OWsg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\DevHome\\api_ddd_dotnet\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
